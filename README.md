@@ -1,6 +1,6 @@
 <h1 align="center">Simple Calculator</h1>
 
-The repo for the Calculator code-along using HTML, CSS!
+The repo for the Calculator code-along using HTML and CSS!
 
 ## Created with: 
 - HTML
