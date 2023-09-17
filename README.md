@@ -1,4 +1,4 @@
-# Simple Calculator
+<h1 align="center">Simple Calculator</h1>
 
 The repo for the Calculator code-along using HTML, CSS, and Vanilla JavaScript!
 
